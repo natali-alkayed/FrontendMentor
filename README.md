@@ -1,3 +1,0 @@
-# FrontendMentor
-
-![image](./Capture.PNG)
